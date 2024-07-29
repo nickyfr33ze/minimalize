@@ -15,3 +15,7 @@ You can certainly use those, I have for many years. However for as much time as 
 3. Memes. This should allow the user a space to also express their creativity. Minimalizing isn't exactly fun if it is your first time doing it, it can be rather stressful. This should be safe for new users and easy to grasp, but also allow advanced users who know what they are doing to just DO IT <insert Shia Lebouf>
 4. Work solely in the terminal to appeal to the dev and security reseacher communities.
     * Might expand into a pretty/flashy UI, but that is a longer term goal.
+
+
+## Contributing
+If you would like to contribute, submit a PR and I would be happy to look at it and open a dialogue. HMU!
